@@ -1,40 +1,44 @@
 #EXTM3U x-tvg-url="https://live.zhi35.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="cctv-1高清" tvg-name="cctv-1高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",cctv-1高清 [1920x1080] (是)
+#EXTINF:-1 tvg-id="cctv-1高清" tvg-name="cctv-1高清" tvg-logo="" group-title="CCTV",cctv-1高清 [1920x1080] (是)
 https://stream1.freetv.fun/6ddfa4bdb0c10dcf07ae08350b4ce7d67cd3051aa10147886fc6bc1eeb929550.m3u8
-#EXTINF:-1 tvg-id="cctv-2高清" tvg-name="cctv-2高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",cctv-2高清 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-2高清" tvg-name="cctv-2高清" tvg-logo="" group-title="CCTV",cctv-2高清 [1920x1080] (否)
 https://stream1.freetv.fun/e9d318d821884f65646a464fcccb3bf7f94ec4b2652442d7316f10d7448d59f5.m3u8
-#EXTINF:-1 tvg-id="cctv-3高清" tvg-name="cctv-3高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",cctv-3高清 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-3高清" tvg-name="cctv-3高清" tvg-logo="" group-title="CCTV",cctv-3高清 [1920x1080] (否)
 https://stream1.freetv.fun/80e762309f8e2eec8efa5e8da07e031ad5e333388e5a3fa98f7ee8249d5b94c9.m3u8
-#EXTINF:-1 tvg-id="cctv-4高清" tvg-name="cctv-4高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",cctv-4高清 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-4高清" tvg-name="cctv-4高清" tvg-logo="" group-title="CCTV",cctv-4高清 [1920x1080] (否)
 https://stream1.freetv.fun/a27c9748582c1110cf4d57c14f66a43bfdc47ab7f89503b07a4c684de8ab4f10.m3u8
-#EXTINF:-1 tvg-id="cctv-5高清" tvg-name="cctv-5高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",cctv-5高清 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-5高清" tvg-name="cctv-5高清" tvg-logo="" group-title="CCTV",cctv-5高清 [1920x1080] (否)
 https://stream1.freetv.fun/38b91e80cd304ae8ee2ad6df7ed206bece711dd7a565b8c0aec9ae25b9e92546.m3u8
-#EXTINF:-1 tvg-id="cctv-6高清" tvg-name="cctv-6高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",cctv-6高清 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-6高清" tvg-name="cctv-6高清" tvg-logo="" group-title="CCTV",cctv-6高清 [1920x1080] (否)
 https://stream1.freetv.fun/8f097777503c1b9686ec1a4dbc22cf7c9806e635e3fa4bf95aa39cc09701be0b.m3u8
-#EXTINF:-1 tvg-id="cctv-7高清" tvg-name="cctv-7高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",cctv-7高清 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-7高清" tvg-name="cctv-7高清" tvg-logo="" group-title="CCTV",cctv-7高清 [1920x1080] (否)
 https://stream1.freetv.fun/7e7e5a2bd0c9d8a1d128c2e06adf98110a48c4d93192f979cee68117a4ce5954.m3u8
-#EXTINF:-1 tvg-id="cctv-8电视剧" tvg-name="cctv-8电视剧" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",cctv-8电视剧 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-8电视剧" tvg-name="cctv-8电视剧" tvg-logo="" group-title="CCTV",cctv-8电视剧 [1920x1080] (否)
 https://stream1.freetv.fun/827fb4cb2cc7b3aa3605d3e5a7ec78f3ec126be84f0b71a4bf93daf0e3293005.m3u8
-#EXTINF:-1 tvg-id="cctv-9高清" tvg-name="cctv-9高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",cctv-9高清 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-9高清" tvg-name="cctv-9高清" tvg-logo="" group-title="CCTV",cctv-9高清 [1920x1080] (否)
 https://stream1.freetv.fun/7bdc35240ce0125753604d1c4ca8fd9741ca5b009b2e23e9c057b921b0c7b03c.m3u8
-#EXTINF:-1 tvg-id="cctv-10科教" tvg-name="cctv-10科教" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",cctv-10科教 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-10科教" tvg-name="cctv-10科教" tvg-logo="" group-title="CCTV",cctv-10科教 [1920x1080] (否)
 https://stream1.freetv.fun/d18dba3dd202234ee5b59d8d926605fdb3b64809d47a14033b5f0d03f0eca9d0.m3u8
-#EXTINF:-1 tvg-id="cctv-11戏曲" tvg-name="cctv-11戏曲" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",cctv-11戏曲 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-11戏曲" tvg-name="cctv-11戏曲" tvg-logo="" group-title="CCTV",cctv-11戏曲 [1920x1080] (否)
 https://stream1.freetv.fun/eaf4e0e2c629346956a139b88c52acc48cd06558dfa29887855308881615240c.m3u8
-#EXTINF:-1 tvg-id="cctv-12社会与法" tvg-name="cctv-12社会与法" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",cctv-12社会与法 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-12社会与法" tvg-name="cctv-12社会与法" tvg-logo="" group-title="CCTV",cctv-12社会与法 [1920x1080] (否)
 https://stream1.freetv.fun/9730d33b2be02552b32376ad4506bed7ef9b981f5abd9439b1254f310a243da9.m3u8
-#EXTINF:-1 tvg-id="cctv13-新闻" tvg-name="cctv13-新闻" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",cctv13-新闻 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv13-新闻" tvg-name="cctv13-新闻" tvg-logo="" group-title="CCTV",cctv13-新闻 [1920x1080] (否)
 https://stream1.freetv.fun/23c8fb2fb3679699a36eeb0dd64ada1155456e81264002b9ec768465c9ca1d25.m3u8
-#EXTINF:-1 tvg-id="cctv14hd" tvg-name="cctv14hd" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",cctv14hd [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv14hd" tvg-name="cctv14hd" tvg-logo="" group-title="CCTV",cctv14hd [1920x1080] (否)
 https://stream1.freetv.fun/106586ab539cbc65f3e2f984fbe6ed4dee0586f18100298668223ea6ef4b0773.m3u8
-#EXTINF:-1 tvg-id="cctv-15音乐" tvg-name="cctv-15音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",cctv-15音乐 [1920x1080] (否)
+#EXTINF:-1 tvg-id="cctv-15音乐" tvg-name="cctv-15音乐" tvg-logo="" group-title="CCTV",cctv-15音乐 [1920x1080] (否)
 https://stream1.freetv.fun/8f439c00160d2c370b8f27f65c55e9d9fd35417d426997faa5d309ee2a9d1fb8.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克
-https://stream1.freetv.fun/45ff1489e52eeacc698e40030cf6d4dba80fc08c3ac4b40d3b11f72eb1cb2677.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17农业农村
-https://stream1.freetv.fun/f74657e160e06a860b2fee8a508c0df5a6feaa50bd0773681119acfd6f823033.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV4K
-https://stream1.freetv.fun/a0a9dab6dc5a00e7df2aba37c437fe6063aab201333d311310cc89a8b7eb1b74.m3u8
+#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="" group-title="CCTV",cctv16 [1920x1080] (是)
+https://stream1.freetv.fun/d801da3cc1c891df9b5ec7abf35b5144cb14bcd76840a93bc7d2191191106216.m3u8
+#EXTINF:-1 tvg-id="cctv-17农业农村" tvg-name="cctv-17农业农村" tvg-logo="" group-title="CCTV",cctv-17农业农村 [1920x1080] (否)
+https://stream1.freetv.fun/854db444fc7f46aa9a705fd7da37fae28806bb0b2d85b1661159011d842b3a07.m3u8
+#EXTINF:-1 tvg-id="cctv世界地理" tvg-name="cctv世界地理" tvg-logo="" group-title="CCTV",cctv世界地理 [1920x1080] (否)
+https://stream1.freetv.fun/a684f7c7beba36a3e071321fd7975ddbebcbc38bc4738fbad3d7c13e14548717.m3u8
+#EXTINF:-1 tvg-id="cctv怀旧剧场" tvg-name="cctv怀旧剧场" tvg-logo="" group-title="CCTV",cctv怀旧剧场 [720x576] (否)
+https://stream1.freetv.fun/7e9b0e93cf8d6fed4faeb0dbc1d8ee9fe2c06fd0cae8a1691ef62b3cc9e58f23.m3u8
+#EXTINF:-1 tvg-id="cctv第一剧场" tvg-name="cctv第一剧场" tvg-logo="" group-title="CCTV",cctv第一剧场 [720x576] (是)
+https://stream1.freetv.fun/631e31539c1b0c0c745f6727dd2e9511ef40616c5732baa462609264fa22c757.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://live.fanmingming.cn/tv/人间卫视.png" group-title="卫视频道",人间卫视
 https://stream1.freetv.fun/0171dd6ea20fe597620ab92375afa18bcceabc42f630c4f5b73829041a2279db.m3u8
 
